@@ -19,7 +19,7 @@ lgpang@qq.com
 ```bash
 git clone https://github.com/e96031413/proofread/
 cd proofread
-python proofread.py .tex
+python proofread.py youFileName.tex
 ```
 运行proofread.py输出结果如下:
 ![example](imgs/example_output.png)
