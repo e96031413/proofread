@@ -17,11 +17,11 @@ lgpang@qq.com
 ## 使用方法
 在命令行输入如下命令，下载并运行
 ```bash
-git clone https://gitlab.com/snowhitiger/proofread.git
+git clone https://github.com/e96031413/proofread/
 cd proofread
-python proofread.py path/*.tex
+python proofread.py .tex
 ```
-其中星号代表任何文件名, 或星号匹配的所有文件，运行proofread.py输出结果如下:
+运行proofread.py输出结果如下:
 ![example](imgs/example_output.png)
 
 在默认情况下，proofread.py 仅对规则字典中要求删除或替换的词进行检查。
