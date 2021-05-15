@@ -1,5 +1,7 @@
 # proofread
 
+2021/05/15：已處理parser名稱衝突問題、讀檔出現cp950 error問題
+
 庞龙刚，UC Berkeley 物理系
 lgpang@qq.com
 
